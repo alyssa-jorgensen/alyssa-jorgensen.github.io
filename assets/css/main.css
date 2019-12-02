@@ -4997,7 +4997,7 @@ input, select, textarea {
 		}
 
 		.spotlight.style1.content-align-right {
-			text-align: right;
+			text-align: left;
 		}
 
 		.spotlight.style1.image-position-left .image img {
