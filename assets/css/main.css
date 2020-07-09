@@ -102,6 +102,13 @@ input, select, textarea {
 		background: #ffffff;
 	}
 
+	#intro {
+		background-color: #c3d9cf
+	}
+
+	#contact {background-color: #c3d9cf
+	}
+
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
